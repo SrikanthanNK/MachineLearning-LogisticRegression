@@ -1,1 +1,1 @@
-# MachineLearning-LogisticRegression
+# Machine Learning-Logistic Regression
